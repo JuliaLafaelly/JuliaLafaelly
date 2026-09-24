@@ -3,7 +3,7 @@
 </div>
 
 ###
-# Olá, eu sou a Julia Lafaelly! 👋
+Olá, eu sou a Julia Lafaelly! 👋
 ***
 
 ## Sobre mim
