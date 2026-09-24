@@ -4,13 +4,13 @@
 
 # Olá, eu sou a Julia Lafaelly!
 
-<h2>Sobre mim </h2>
+## Sobre mim 
 <p data-importer="text" align="left">Curso Engenharia de Software na UNICID</p>
 <p data-importer="text" align="left">Interessada em desenvolvimento web e aplicações</p>
 <p data-importer="text" align="left">Sempre aprendendo novas tecnologias</p>
 <p data-importer="text" align="left">Em busca de oportunidades para desenvolver projetos</p>
 
-***
+###
 
 ## Tecnologias e ferramentas
 
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
-***
+
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julialafaelly/julialafaelly/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
