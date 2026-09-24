@@ -2,9 +2,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=60&fontColor=255,255,255&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<h1>Olá, eu sou a Julia Lafaelly! 👋</h1>
+<h1>Olá, eu sou a Julia Lafaelly! </h1>
 
-## Sobre mim
+<h2>Sobre mim </h2>
 <p data-importer="text" align="left">Curso Engenharia de Software na UNICID</p>
 <p data-importer="text" align="left">Interessada em desenvolvimento web e aplicações</p>
 <p data-importer="text" align="left">Sempre aprendendo novas tecnologias</p>
