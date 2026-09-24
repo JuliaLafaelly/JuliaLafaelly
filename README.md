@@ -4,13 +4,6 @@
 
 # Olá, eu sou a Julia Lafaelly!
 
-## Sobre mim 
-<p data-importer="text" align="left">Curso Engenharia de Software na UNICID</p>
-<p data-importer="text" align="left">Interessada em desenvolvimento web e aplicações</p>
-<p data-importer="text" align="left">Sempre aprendendo novas tecnologias</p>
-<p data-importer="text" align="left">Em busca de oportunidades para desenvolver projetos</p>
-
-###
 
 ## Tecnologias e ferramentas
 
