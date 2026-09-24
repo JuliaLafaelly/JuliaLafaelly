@@ -41,8 +41,8 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/julia-fraz%C3%A3o-4b68a7282/" width="52" height="40" alt="gmail logo" alt="linkedin logo"  />
+  <img src="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpsSVgwtJkxFJXMZnxWwQnxqLZsVPZjrPhksxXSdHPLzcSDrnSBTQrgzcDHxsRhfkpqqB" width="52" height="40"   />
 </div>
 
 ###
