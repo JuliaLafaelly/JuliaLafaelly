@@ -3,7 +3,7 @@
 </div>
 
 ###
-#Olá, eu sou a Julia Lafaelly! 👋
+# Olá, eu sou a Julia Lafaelly! 👋
 
 ## Sobre mim
 <p data-importer="text" align="left">Curso Engenharia de Software na UNICID</p>
