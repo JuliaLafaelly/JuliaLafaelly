@@ -29,6 +29,16 @@ Busco uma oportunidade de estágio ou posição júnior em Engenharia de Softwar
 
 Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
 
+<div align="center">
+
+## 🌐 Acesse meu Portfólio
+
+<a href="COLOQUE-AQUI-O-LINK-DO-SEU-PORTFOLIO">
+  <img src="https://img.shields.io/badge/Acessar%20meu%20Portf%C3%B3lio-111111?style=for-the-badge&logo=github&logoColor=white" alt="Acessar meu Portfólio">
+</a>
+
+</div>
+
 ---
 
 ## 🧠 IDE's
