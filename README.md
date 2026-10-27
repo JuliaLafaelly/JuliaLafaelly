@@ -79,23 +79,26 @@ Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 ---
 
+## 🎓 Formação
+
+**ETEC Itaquera I**
+Ensino Técnico em Desenvolvimento de Sistemas - Concluído
+
+**Universidade Cidade de São Paulo (Unicid)**
+Bacharelado em Engenharia de Software - *(em andamento)*
+
+---
 
 ## 🚀 Projetos
 
 ### 🏠 Personal Pisos e Carpetes
 Site empresarial desenvolvido para apresentar produtos, serviços e informações de contato de uma empresa do segmento de pisos e acabamentos.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
 🔗 [Acessar repositório](https://github.com/JuliaLafaelly/Site_Personal_Pisos)
 
 ---
 
 ### 📱 Aplicativo de Serviços para Condomínios
 Projeto acadêmico de um aplicativo mobile que conecta moradores e prestadores de serviços dentro de condomínios, com foco em praticidade, segurança e confiabilidade.
-
-**Tecnologias:** Kotlin, Android Studio e integração com banco de dados.
-
 🔗 [Acessar repositório](https://github.com/JuliaLafaelly/App-Apoi-me)
 
 ---
@@ -104,20 +107,7 @@ Projeto acadêmico de um aplicativo mobile que conecta moradores e prestadores d
 ### 🍕 Projeto Pizzaria FNAF
 
 Projeto de desenvolvimento de uma pizzaria temática inspirada no universo de *Five Nights at Freddy's (FNAF)*, unindo criatividade e tecnologia em uma experiência digital.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
 🔗 [Acessar repositório](https://github.com/JuliaLafaelly/Projeto-Pizzaria-FNAF)
-
----
-
-## 🎓 Formação
-
-**ETEC Itaquera I**
-Ensino Técnico em Desenvolvimento de Sistemas - Concluído
-
-**Universidade Cidade de São Paulo (Unicid)**
-Bacharelado em Engenharia de Software - *(em andamento)*
 
 ---
 
