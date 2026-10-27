@@ -1,8 +1,24 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=60&fontColor=255,255,255&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<div align="center">
+
+```text
+
+     ██╗██╗   ██╗██╗     ██╗ █████╗     ██╗      █████╗ ███████╗ █████╗ ███████╗██╗     ██╗  ██╗   ██╗
+     ██║██║   ██║██║     ██║██╔══██╗    ██║     ██╔══██╗██╔════╝██╔══██╗██╔════╝██║     ██║  ╚██╗ ██╔╝
+     ██║██║   ██║██║     ██║███████║    ██║     ███████║█████╗  ███████║█████╗  ██║     ██║   ╚████╔╝ 
+██   ██║██║   ██║██║     ██║██╔══██║    ██║     ██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║     ██║    ╚██╔╝  
+╚█████╔╝╚██████╔╝███████╗██║██║  ██║    ███████╗██║  ██║██║     ██║  ██║███████╗███████╗███████╗██║   
+ ╚════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝   
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Curso: Engenharia de Software — UNICID
+Foco:  [Desenvolvimento Web]
+Estudando: [Front-End] • [Back-End] • [Estrutura de Software]
+
+```
+
 </div>
 
-# Olá, eu sou a Julia Lafaelly!
 
 **Técnico em Desenvolvimento de Sistemas**
 
@@ -23,9 +39,9 @@
 
 ## 🎨 Front-End
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -47,16 +63,16 @@
 
 ## 🔧 Controle de Versão
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🤖 Inteligências Artificiais (IA)
 
+[![Manus](https://img.shields.io/badge/Manus-2563EB?style=for-the-badge&logo=manus&logoColor=white)](https://manus.im/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
-[![Manus](https://img.shields.io/badge/Manus-2563EB?style=for-the-badge&logo=manus&logoColor=white)](https://manus.im/)
 
 ---
 
@@ -70,22 +86,10 @@ Bacharelado em Engenharia de Software · *(em andamento)*
 
 ---
 
-## 🚀 Projetos
-
----
-
-## 📜 Certificados
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julialafaelly/julialafaelly/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julialafaelly/julialafaelly/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julialafaelly/julialafaelly/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=60&fontColor=255,255,255&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
 
 ###
