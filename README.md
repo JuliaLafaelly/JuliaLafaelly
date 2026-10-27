@@ -12,8 +12,8 @@
 ──────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Curso: Engenharia de Software — UNICID
-Foco:  [Desenvolvimento Web]
-Estudando: [Front-End] • [Back-End] • [Estrutura de Software]
+Foco: Desenvolvimento Web
+Estudando: Front-End • Back-End • Estrutura de Software
 
 ```
 
