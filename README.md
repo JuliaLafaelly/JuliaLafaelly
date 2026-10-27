@@ -21,6 +21,15 @@ Estudando: Front-End • Back-End • Estrutura de Software
 
 ---
 
+## 📌 Sobre mim
+
+Tenho interesse em Desenvolvimento Web, Engenharia de Software, Tecnologia e Transformação Digital. Possuo conhecimentos em HTML, CSS e JavaScript, utilizados na criação e estilização de páginas web, além de noções de lógica de programação e banco de dados. Também tenho conhecimentos em Git e GitHub para controle de versão e organização de projetos.
+
+
+Busco uma oportunidade de estágio ou posição júnior em Engenharia de Software, na qual possa aplicar meus conhecimentos, desenvolver minhas habilidades técnicas, aprender com profissionais da área e contribuir para a criação de soluções tecnológicas.
+
+Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
+
 ## 🧠 IDE's
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
