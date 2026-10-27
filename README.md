@@ -31,11 +31,9 @@ Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 <div align="center">
 
-## 🌐 Acesse meu Portfólio
+**Acesse meu Portfólio**
 
-<a href="COLOQUE-AQUI-O-LINK-DO-SEU-PORTFOLIO">
-  <img src="https://img.shields.io/badge/Acessar%20meu%20Portf%C3%B3lio-111111?style=for-the-badge&logo=github&logoColor=white" alt="Acessar meu Portfólio">
-</a>
+🌐 [Acesse meu Portfólio](https://julialafaelly.github.io/Meu-Portfolio/)
 
 </div>
 
