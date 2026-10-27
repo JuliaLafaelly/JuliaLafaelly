@@ -72,11 +72,9 @@ Estudando: Front-End • Back-End • Estrutura de Software
 ## 🎓 Formação
 
 **ETEC Itaquera I**
-
 Ensino Técnico em Desenvolvimento de Sistemas - Concluído
 
 **Universidade Cidade de São Paulo (Unicid)**
-
 Bacharelado em Engenharia de Software - *(em andamento)*
 
 ---
