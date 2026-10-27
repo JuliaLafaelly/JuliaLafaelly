@@ -96,7 +96,7 @@ Projeto acadêmico de um aplicativo mobile que conecta moradores e prestadores d
 
 **Tecnologias:** Kotlin, Android Studio e integração com banco de dados.
 
-🔗 [Repositório do projeto](https://github.com/JuliaLafaelly/App-Apoi-me)
+🔗 [Acessar repositório](https://github.com/JuliaLafaelly/App-Apoi-me)
 
 ---
 
