@@ -95,21 +95,17 @@ Bacharelado em Engenharia de Software - *(em andamento)*
 
 ## 🚀 Projetos
 
-### 🏠 Personal Pisos e Carpetes
+Alguns dos meus projetos estão disponíveis neste perfil, onde busco aplicar na prática os conhecimentos adquiridos durante meus estudos.
+
+**Personal Pisos e Carpetes**
 Site empresarial desenvolvido para apresentar produtos, serviços e informações de contato de uma empresa do segmento de pisos e acabamentos.
 🔗 [Acessar repositório](https://github.com/JuliaLafaelly/Site_Personal_Pisos)
 
----
-
-### 📱 Aplicativo de Serviços para Condomínios
+**Aplicativo de Serviços para Condomínios**
 Projeto acadêmico de um aplicativo mobile que conecta moradores e prestadores de serviços dentro de condomínios, com foco em praticidade, segurança e confiabilidade.
 🔗 [Acessar repositório](https://github.com/JuliaLafaelly/App-Apoi-me)
 
----
-
-
-### 🍕 Projeto Pizzaria FNAF
-
+**🍕 Projeto Pizzaria FNAF**
 Projeto de desenvolvimento de uma pizzaria temática inspirada no universo de *Five Nights at Freddy's (FNAF)*, unindo criatividade e tecnologia em uma experiência digital.
 🔗 [Acessar repositório](https://github.com/JuliaLafaelly/Projeto-Pizzaria-FNAF)
 
