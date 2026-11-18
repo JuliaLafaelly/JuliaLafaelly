@@ -86,10 +86,13 @@ Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnolo
 ## 🎓 Formação
 
 **ETEC Itaquera I**
-Ensino Técnico em Desenvolvimento de Sistemas - Concluído
 
-**Universidade Cidade de São Paulo (Unicid)**
-Bacharelado em Engenharia de Software - *(em andamento)*
+- Técnico em Desenvolvimento de Sistemas — Concluído.
+
+**Universidade Cidade de São Paulo (UNICID)**
+
+- Bacharelado em Engenharia de Software — Em andamento.
+
 
 ---
 
