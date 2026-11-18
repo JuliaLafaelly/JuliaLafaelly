@@ -35,6 +35,9 @@ public class Julia {
 }
 
 ```
+Busco uma oportunidade de estágio ou posição júnior em Engenharia de Software, na qual possa aplicar meus conhecimentos, desenvolver minhas habilidades técnicas, aprender com profissionais da área e contribuir para a criação de soluções tecnológicas.
+
+Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
 
 **Acesse meu Portfólio:**
 
