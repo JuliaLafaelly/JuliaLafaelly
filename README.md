@@ -31,11 +31,7 @@ Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 **Acesse meu Portfólio**
 
-<div align="center">
-
 [![Portfólio](https://img.shields.io/badge/MEU_PORTFÓLIO-354B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julialafaelly.github.io/Meu-Portfolio/)
-
-</div>
 
 ---
 
