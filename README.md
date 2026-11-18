@@ -34,7 +34,7 @@ public class Julia {
     String objetivo = "transformar ideias em soluções por meio do código";
 }
 
---- 
+```
 
 ## 📌 Sobre mim
 
