@@ -85,14 +85,6 @@ Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 ---
 
-## 🤖 Inteligências Artificiais (IA)
-
-[![Manus](https://img.shields.io/badge/Manus-2563EB?style=for-the-badge&logo=manus&logoColor=white)](https://manus.im/)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
-
----
-
 ## 🎓 Formação
 
 **ETEC Itaquera I**
