@@ -29,14 +29,12 @@ public class Julia {
     String foco = "Desenvolvimento Web";
     String[] estudando = {
         "HTML", "CSS", "JavaScript",
-        "Lógica de Programação", "Banco de Dados"
+        "Lógica de Programação", "Banco de Dados", "Java"
     };
     String objetivo = "transformar ideias em soluções por meio do código";
 }
 
 ```
-
-## 📌 Sobre mim
 
 Tenho interesse em Desenvolvimento Web, Engenharia de Software, Tecnologia e Transformação Digital. Possuo conhecimentos em HTML, CSS e JavaScript, utilizados na criação e estilização de páginas web, além de noções de lógica de programação e banco de dados. Também tenho conhecimentos em Git e GitHub para controle de versão e organização de projetos.
 
