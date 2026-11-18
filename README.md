@@ -29,7 +29,7 @@ Busco uma oportunidade de estágio ou posição júnior em Engenharia de Softwar
 
 Estou aberta a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
 
-**Acesse meu Portfólio**
+**Acesse meu Portfólio:**
 
 [![Portfólio](https://img.shields.io/badge/MEU_PORTFÓLIO-354B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julialafaelly.github.io/Meu-Portfolio/)
 
