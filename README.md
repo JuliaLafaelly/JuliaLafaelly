@@ -19,7 +19,9 @@ Estudando: Front-End • Back-End • Estrutura de Software
 
 </div>
 
-## 👩‍💻 Sobre mim
+---
+
+## 📌 Sobre mim
 
 ```java
 public class Julia {
