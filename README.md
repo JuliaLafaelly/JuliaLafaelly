@@ -19,8 +19,6 @@ Estudando: Front-End • Back-End • Estrutura de Software
 
 </div>
 
----
-
 ## 👩‍💻 Sobre mim
 
 ```java
